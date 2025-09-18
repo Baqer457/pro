@@ -1,0 +1,26 @@
+{
+    "8162665262": {
+        "templates": {},
+        "known_chats": {
+            "3026356373": "Callisto ❕"
+        },
+        "scheduling": {
+            "active": true,
+            "step": "awaiting_here",
+            "templates": [
+                {
+                    "text": "راتب"
+                },
+                {
+                    "text": "حظ 12100"
+                }
+            ],
+            "interval": 40,
+            "count": 7,
+            "last_msg_id": [
+                75994
+            ],
+            "here_groups": []
+        }
+    }
+}
