@@ -5,7 +5,7 @@
             "3026356373": "Callisto ❕"
         },
         "scheduling": {
-            "active": true,
+            "active": false,
             "step": "awaiting_here",
             "templates": [
                 {
